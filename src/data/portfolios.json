@@ -1,0 +1,103 @@
+{
+    "portfolios": [
+        {
+            "cover": "/portfolio/1/breaker.png",
+            "title": "Game",
+            "url": "https://dataa013.github.io/game/"
+        },
+        {
+            "cover": "/portfolio/1/Tenzies.jpg",
+            "title": "Tz",
+            "url": "https://dataa013.github.io/newtz/"
+        },
+        {
+            "cover": "/portfolio/1/generator.png",
+            "title": "Meme",
+            "url": "https://dataa013.github.io/meme/"
+        },
+        {
+            "cover": "/portfolio/1/clock.gif",
+            "title": "Animate",
+            "url": "https://dataa013.github.io/clock/"
+        },
+
+        {
+            "cover": "/portfolio/1/sssss.png",
+            "title": "Lorem",
+            "url": "https://dataa013.github.io/wikipedia/"
+        },
+
+        {
+            "cover": "/portfolio/1/generate.png",
+            "title": "DarkMode",
+            "url": "https://dataa013.github.io/lorem/"
+        },
+
+        {
+            "cover": "/portfolio/1/company.png",
+            "title": "Filters",
+            "url": "https://dataa013.github.io/filters/"
+        },
+
+        {
+            "cover": "/portfolio/1/video project.png",
+            "title": "Video",
+            "url": "https://dataa013.github.io/videoproject/"
+        },
+
+        {
+            "cover": "/portfolio/1/collorflipper.png",
+            "title": "Flipper",
+            "url": "https://dataa013.github.io/flpper/"
+        },
+
+        {
+            "cover": "/portfolio/1/reviews.png",
+            "title": "Reviews",
+            "url": "https://dataa013.github.io/reviews/"
+        },
+
+        {
+            "cover": "/portfolio/1/modal.png",
+            "title": "Modal",
+            "url": "https://dataa013.github.io/modal/"
+        },
+
+        {
+            "cover": "/portfolio/1/question.png",
+            "title": "Question",
+            "url": "https://dataa013.github.io/question/"
+        },
+
+        {
+            "cover": "/portfolio/1/scrol.png",
+            "title": "Scroll",
+            "url": "https://dataa013.github.io/scroll/"
+        },
+
+        {
+            "cover": "/portfolio/1/tabs.png",
+            "title": "Tabs",
+            "url": "https://dataa013.github.io/tabs/"
+        },
+
+        {
+            "cover": "/portfolio/1/timer.png",
+            "title": "Timer",
+            "url": "https://dataa013.github.io/timer/"
+        },
+
+        {
+            "cover": "/portfolio/1/bud.png",
+            "title": "Bud",
+            "url": "https://dataa013.github.io/bud/"
+        },
+
+        {
+            "cover": "/portfolio/1/numbers.png",
+            "title": "Numbers",
+            "url": "https://dataa013.github.io/numbers/"
+        }
+
+    ]
+}

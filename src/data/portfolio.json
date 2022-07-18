@@ -1,0 +1,78 @@
+{
+    "portfolio": [
+        {
+            "cover": "/portfolio/1/demo.png",
+            "title": "TRVL",
+            "url": "https://react-trvl-1.netlify.app"
+        },
+        {
+            "cover": "/portfolio/1/real.png",
+            "title": "Besnik",
+            "url": "https://besnik13.netlify.app"
+        },
+        {
+            "cover": "/portfolio/1/Real Estate Landing page - Renty.png",
+            "title": "Renty",
+            "url": "https://dataa013.github.io/renty1/"
+        },
+        {
+            "cover": "/portfolio/1/animateWeb.png",
+            "title": "Animate",
+            "url": "https://dataa013.github.io/animate/"
+        },
+        {
+            "cover": "/portfolio/1/pizza.jpeg",
+            "title": "Pizza",
+            "url": "https://react-1-me.netlify.app"
+        },
+
+        {
+            "cover": "/portfolio/1/jadoo.png",
+            "title": "Jadoo",
+            "url": "https://dataa013.github.io/Jadoo/"
+        },
+
+        {
+            "cover": "/portfolio/1/Mobile App Landing page - Copy.jpg",
+            "title": "Anndy",
+            "url": "https://dataa013.github.io/anndy/"
+        },
+
+        {
+            "cover": "/portfolio/1/floko.png",
+            "title": "Floko",
+            "url": "https://dataa013.github.io/Floko/"
+        },
+
+        {
+            "cover": "/portfolio/1/GD.png",
+            "title": "GD",
+            "url": "https://dataa013.github.io/ggd/"
+        },
+
+        {
+            "cover": "/portfolio/1/beebp.png",
+            "title": "Beebp",
+            "url": "https://dataa013.github.io/beebpio/"
+        },
+
+        {
+            "cover": "/portfolio/1/Homepage.png",
+            "title": "Darlene",
+            "url": "https://dataa013.github.io/darlene/"
+        },
+
+        {
+            "cover": "/portfolio/1/crook.png",
+            "title": "Crook",
+            "url": "https://dataa013.github.io/Crook/"
+        },
+
+        {
+            "cover": "/portfolio/1/asdasd.png",
+            "title": "Old Portfolio",
+            "url": "https://dataa013.github.io/new/"
+        }
+     
+    ]
+}
